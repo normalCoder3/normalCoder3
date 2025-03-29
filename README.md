@@ -1,4 +1,4 @@
-## Hi there 👋
+# HIHIHIHIHIHIHI
 
 <!--
 **normalCoder3/normalCoder3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
