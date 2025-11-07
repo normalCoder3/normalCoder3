@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# HIHIHIHIHIHIHI
+# Hello
 
-Have day :)
+You'll probably only see me during weekday mornings and maybe weekend afternoons
+Ok, have day :)
