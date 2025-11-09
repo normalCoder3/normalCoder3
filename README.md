@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hello, welcome to normalCoder3
 
-You'll probably only see me during weekday mornings and maybe weekend afternoons
+You'll probably only see me online during weekday mornings and maybe weekend afternoons
 
 Ok, have day :)
